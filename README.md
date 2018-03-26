@@ -1,8 +1,7 @@
 # Rating System
 
-This project is depreciated.（本项目已经不再开发。）
 
-西工大ACM积分天梯系统
+ACM积分天梯系统
 
 原理：https://zh.wikipedia.org/wiki/%E7%AD%89%E7%BA%A7%E5%88%86
 
